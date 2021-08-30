@@ -1,0 +1,62 @@
+.container
+{
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+     padding-top: 30px; 
+     padding-left: 50px; 
+}
+img
+{
+    max-width: 100%;
+}
+.text-col 
+{
+    padding-bottom: 50px;
+    padding-left: 200px;
+}
+.memory-set
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-right:250px;
+
+} 
+.storage-set
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-right: 350px;
+
+} 
+.delivary-set
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-right: 250px;
+}
+.list-item
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-right: 350px;
+}
+
+.promo-code
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-right: 350px;
+}
+.input-text
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-right: 350px;
+}
